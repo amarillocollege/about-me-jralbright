@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  About Me
 //
-//  Created by [YOUR NAME GOES HERE].
+//  Created by [Joseph Albright].
 //
 
 import SwiftUI
